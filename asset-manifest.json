@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/site-idals/static/css/main.4a6ce90d.css",
+    "main.js": "/site-idals/static/js/main.ecdee458.js",
+    "static/js/787.a0b13a50.chunk.js": "/site-idals/static/js/787.a0b13a50.chunk.js",
+    "index.html": "/site-idals/index.html",
+    "main.4a6ce90d.css.map": "/site-idals/static/css/main.4a6ce90d.css.map",
+    "main.ecdee458.js.map": "/site-idals/static/js/main.ecdee458.js.map",
+    "787.a0b13a50.chunk.js.map": "/site-idals/static/js/787.a0b13a50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a6ce90d.css",
+    "static/js/main.ecdee458.js"
+  ]
+}
